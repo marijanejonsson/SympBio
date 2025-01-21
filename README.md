@@ -1,2 +1,2 @@
 # SympBio
-This repository contains relavant data for the project "Associations between patient-reported symptoms and protein-based circulating biomarkers".
+This repository contains relevant data for the project "Scoping Review: Associations between patient-reported symptoms and protein-based circulating biomarkers".
